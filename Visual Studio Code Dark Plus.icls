@@ -1,12 +1,14 @@
 <scheme name="Visual Studio Code Dark Plus" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-04-14T02:01:29</property>
+    <property name="created">2019-04-14T02:14:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-14T02:01:39</property>
+    <property name="modified">2019-04-14T02:14:57</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
   <colors>
+    <option name="CARET_COLOR" value="adaeac" />
+    <option name="CARET_ROW_COLOR" value="262626" />
     <option name="GUTTER_BACKGROUND" value="1d1d1d" />
     <option name="INDENT_GUIDE" value="3b3b3b" />
     <option name="RIGHT_MARGIN_COLOR" value="3b3b3b" />
@@ -338,6 +340,15 @@
         <option name="FOREGROUND" value="499cd5" />
       </value>
     </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="878787" />
+      </value>
+    </option>
+    <option name="PHP_ALIAS_REFERENCE">
+      <value />
+    </option>
     <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
@@ -351,7 +362,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="94dbfd" />
+        <option name="FOREGROUND" value="4ec9b0" />
       </value>
     </option>
     <option name="PHP_VAR">

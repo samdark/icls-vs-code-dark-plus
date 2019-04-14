@@ -1,9 +1,9 @@
 <scheme name="Visual Studio Code Dark Plus" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-04-14T02:14:48</property>
+    <property name="created">2019-04-14T16:30:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-14T02:14:57</property>
+    <property name="modified">2019-04-14T16:30:15</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
   <colors>
@@ -127,6 +127,16 @@
         <option name="FOREGROUND" value="699856" />
       </value>
     </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="39c8b0" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="39c8b0" />
+      </value>
+    </option>
     <option name="DEFAULT_COMMA">
       <value />
     </option>
@@ -156,9 +166,14 @@
         <option name="FOREGROUND" value="dcdcaa" />
       </value>
     </option>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="94dbfd" />
+      </value>
+    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="dcdcaa" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -186,6 +201,11 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="699856" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="94dbfd" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -362,7 +382,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="94dbfd" />
       </value>
     </option>
     <option name="PHP_VAR">

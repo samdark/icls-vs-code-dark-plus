@@ -1,6 +1,6 @@
 # Visual Studio Code Dark Plus color scheme for JetBrains IDEs
 
-> Note: There is now a full theme that adjusts UI colors of the IDE as well. It is [available from the official plugins store](https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme).
+> ⚠️ There is now a full theme that adjusts UI colors of the IDE as well. It is [available from the official plugins store](https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme).
 
 Visual Studio Code Dark Plus-like color scheme for PhpStorm and other JetBrains IDEs.
 
